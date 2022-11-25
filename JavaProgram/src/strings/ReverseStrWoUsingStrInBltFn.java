@@ -1,6 +1,6 @@
 package strings;
 
-public class reverseStringsWithoutUsingStringInBuiltFns {
+public class ReverseStrWoUsingStrInBltFn {
 
 	public static void main(String[] args) {
 		
